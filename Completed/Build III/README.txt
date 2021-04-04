@@ -64,7 +64,3 @@ Other information:
 IMPORTANT!
     This is a pre-release version, and any issues encountered are NOT indicative of the final product.
     If Roguelike.exe fails to execute, please use RoguelikeWL.exe and report this occurance to @Kraken#8165 as quickly as possible.
-
-    The source code is only included so that you, a tester, can see how the game works if you'd like. You do not have permission to
-    distribute the source files. If you do distribute the source files, you will be permanently removed as a game tester and forfeit
-    the rights to any other development build of the game.
